@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated model files
+models/*.joblib
+
+# Generated similarity results
+data/similarity/
+
+# Raw datasets
+players_data-2025_2026.csv
+players_data_light-2025_2026.csv

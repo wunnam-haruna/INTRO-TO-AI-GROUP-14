@@ -1,0 +1,27 @@
+{
+  "raw_rows": 2839,
+  "raw_columns": 102,
+  "cleaned_columns": 82,
+  "exact_duplicate_rows": 0,
+  "duplicate_player_club_comp": 0,
+  "missing_position": 0,
+  "multi_position_players": 620,
+  "eligible_450": 1999,
+  "eligible_900": 1578,
+  "eligible_1350": 1192,
+  "outfield_eligible_900": 1464,
+  "goalkeepers_eligible_900": 114,
+  "position_counts": {
+    "Midfielder": 1254,
+    "Defender": 849,
+    "Forward": 542,
+    "Goalkeeper": 194
+  },
+  "competition_counts": {
+    "es La Liga": 611,
+    "it Serie A": 609,
+    "fr Ligue 1": 561,
+    "eng Premier League": 551,
+    "de Bundesliga": 507
+  }
+}
