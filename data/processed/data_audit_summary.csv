@@ -1,0 +1,12 @@
+Metric,Value
+Raw rows,2839
+Raw columns,102
+Cleaned rows,2839
+Cleaned columns,72
+Exact duplicate raw rows,0
+Multi-position players,620
+Players with at least 450 minutes,1999
+Players with at least 900 minutes,1578
+Players with at least 1350 minutes,1192
+Eligible outfield players,1464
+Eligible goalkeepers,114
