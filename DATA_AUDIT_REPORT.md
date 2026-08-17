@@ -123,3 +123,6 @@ The next notebook will produce:
 - Silhouette-score comparison table
 - Cluster-centroid profiles
 - Initial football interpretation of the clusters
+
+
+

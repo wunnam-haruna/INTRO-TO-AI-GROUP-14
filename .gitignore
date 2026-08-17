@@ -28,3 +28,5 @@ players_data_light-2025_2026.csv
 # Local MVP backups
 app_mvp_backup.py
 src/game_engine_mvp_backup.py
+.agents/
+.pytest_cache/
